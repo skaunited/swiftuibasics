@@ -13,6 +13,7 @@
 		01510B0B25755D5700372354 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01510B0A25755D5700372354 /* Preview Assets.xcassets */; };
 		01510B1525755DA100372354 /* VStack1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01510B1425755DA100372354 /* VStack1.swift */; };
 		0170B3AD25755EE300D1C53A /* LazyVStack1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0170B3AC25755EE300D1C53A /* LazyVStack1.swift */; };
+		0170B3B2257566F500D1C53A /* VStackDemo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 0170B3B1257566F500D1C53A /* VStackDemo.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		01510B0C25755D5700372354 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		01510B1425755DA100372354 /* VStack1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VStack1.swift; sourceTree = "<group>"; };
 		0170B3AC25755EE300D1C53A /* LazyVStack1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVStack1.swift; sourceTree = "<group>"; };
+		0170B3B1257566F500D1C53A /* VStackDemo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = VStackDemo.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,10 +79,19 @@
 		01510B1325755D7E00372354 /* Layout Views */ = {
 			isa = PBXGroup;
 			children = (
+				0170B3B0257566B600D1C53A /* demo */,
 				01510B1425755DA100372354 /* VStack1.swift */,
 				0170B3AC25755EE300D1C53A /* LazyVStack1.swift */,
 			);
 			path = "Layout Views";
+			sourceTree = "<group>";
+		};
+		0170B3B0257566B600D1C53A /* demo */ = {
+			isa = PBXGroup;
+			children = (
+				0170B3B1257566F500D1C53A /* VStackDemo.gif */,
+			);
+			path = demo;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -141,6 +152,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				01510B0B25755D5700372354 /* Preview Assets.xcassets in Resources */,
+				0170B3B2257566F500D1C53A /* VStackDemo.gif in Resources */,
 				01510B0825755D5700372354 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
