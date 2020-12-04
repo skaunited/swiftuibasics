@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		012498A02577BE85003DB818 /* HStack1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0124989F2577BE85003DB818 /* HStack1.swift */; };
 		01510B0425755D5700372354 /* SwiftUIBasicsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01510B0325755D5700372354 /* SwiftUIBasicsApp.swift */; };
 		01510B0625755D5700372354 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01510B0525755D5700372354 /* ContentView.swift */; };
 		01510B0825755D5700372354 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01510B0725755D5700372354 /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0124989F2577BE85003DB818 /* HStack1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HStack1.swift; sourceTree = "<group>"; };
 		01510B0025755D5700372354 /* SwiftUIBasics.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBasics.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		01510B0325755D5700372354 /* SwiftUIBasicsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBasicsApp.swift; sourceTree = "<group>"; };
 		01510B0525755D5700372354 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -82,6 +84,7 @@
 				0170B3B0257566B600D1C53A /* demo */,
 				01510B1425755DA100372354 /* VStack1.swift */,
 				0170B3AC25755EE300D1C53A /* LazyVStack1.swift */,
+				0124989F2577BE85003DB818 /* HStack1.swift */,
 			);
 			path = "Layout Views";
 			sourceTree = "<group>";
@@ -167,6 +170,7 @@
 				01510B0625755D5700372354 /* ContentView.swift in Sources */,
 				01510B0425755D5700372354 /* SwiftUIBasicsApp.swift in Sources */,
 				01510B1525755DA100372354 /* VStack1.swift in Sources */,
+				012498A02577BE85003DB818 /* HStack1.swift in Sources */,
 				0170B3AD25755EE300D1C53A /* LazyVStack1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
