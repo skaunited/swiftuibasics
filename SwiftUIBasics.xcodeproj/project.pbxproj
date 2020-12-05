@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0111C3CD257BF2D800A31B92 /* ZStack1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0111C3CC257BF2D800A31B92 /* ZStack1.swift */; };
+		0111C3D0257BF66D00A31B92 /* GeometryReader1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0111C3CF257BF66D00A31B92 /* GeometryReader1.swift */; };
 		012498A02577BE85003DB818 /* HStack1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0124989F2577BE85003DB818 /* HStack1.swift */; };
 		01510B0425755D5700372354 /* SwiftUIBasicsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01510B0325755D5700372354 /* SwiftUIBasicsApp.swift */; };
 		01510B0625755D5700372354 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01510B0525755D5700372354 /* ContentView.swift */; };
@@ -21,6 +22,7 @@
 
 /* Begin PBXFileReference section */
 		0111C3CC257BF2D800A31B92 /* ZStack1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZStack1.swift; sourceTree = "<group>"; };
+		0111C3CF257BF66D00A31B92 /* GeometryReader1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReader1.swift; sourceTree = "<group>"; };
 		0124989F2577BE85003DB818 /* HStack1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HStack1.swift; sourceTree = "<group>"; };
 		01510B0025755D5700372354 /* SwiftUIBasics.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBasics.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		01510B0325755D5700372354 /* SwiftUIBasicsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBasicsApp.swift; sourceTree = "<group>"; };
@@ -91,6 +93,7 @@
 				0124989F2577BE85003DB818 /* HStack1.swift */,
 				01F888F3257A6AEA00984D3C /* LazyHStack1.swift */,
 				0111C3CC257BF2D800A31B92 /* ZStack1.swift */,
+				0111C3CF257BF66D00A31B92 /* GeometryReader1.swift */,
 			);
 			path = "Layout Views";
 			sourceTree = "<group>";
@@ -180,6 +183,7 @@
 				01F888F4257A6AEA00984D3C /* LazyHStack1.swift in Sources */,
 				012498A02577BE85003DB818 /* HStack1.swift in Sources */,
 				0170B3AD25755EE300D1C53A /* LazyVStack1.swift in Sources */,
+				0111C3D0257BF66D00A31B92 /* GeometryReader1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

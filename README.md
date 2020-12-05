@@ -13,3 +13,8 @@
 # ZStack
 
 ![alt text](https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/ZStack.png)
+
+
+# Geometry Reader
+
+![alt text](https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/geometryReader.gif)
