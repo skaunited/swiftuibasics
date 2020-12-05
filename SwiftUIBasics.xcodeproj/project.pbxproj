@@ -20,6 +20,7 @@
 		0176A8F5257C36D400FF770C /* LazyHGrid1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0176A8F4257C36D400FF770C /* LazyHGrid1.swift */; };
 		0176A8F9257C40F000FF770C /* LazyVGrid1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0176A8F8257C40F000FF770C /* LazyVGrid1.swift */; };
 		0176A8FC257C450300FF770C /* LazyVGrid2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0176A8FB257C450300FF770C /* LazyVGrid2.swift */; };
+		0176A8FF257C494D00FF770C /* ScrollViewReader1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0176A8FE257C494D00FF770C /* ScrollViewReader1.swift */; };
 		01F888F4257A6AEA00984D3C /* LazyHStack1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01F888F3257A6AEA00984D3C /* LazyHStack1.swift */; };
 /* End PBXBuildFile section */
 
@@ -39,6 +40,7 @@
 		0176A8F4257C36D400FF770C /* LazyHGrid1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyHGrid1.swift; sourceTree = "<group>"; };
 		0176A8F8257C40F000FF770C /* LazyVGrid1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVGrid1.swift; sourceTree = "<group>"; };
 		0176A8FB257C450300FF770C /* LazyVGrid2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVGrid2.swift; sourceTree = "<group>"; };
+		0176A8FE257C494D00FF770C /* ScrollViewReader1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReader1.swift; sourceTree = "<group>"; };
 		01F888F3257A6AEA00984D3C /* LazyHStack1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyHStack1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -103,6 +105,7 @@
 				0176A8F4257C36D400FF770C /* LazyHGrid1.swift */,
 				0176A8F8257C40F000FF770C /* LazyVGrid1.swift */,
 				0176A8FB257C450300FF770C /* LazyVGrid2.swift */,
+				0176A8FE257C494D00FF770C /* ScrollViewReader1.swift */,
 			);
 			path = "Layout Views";
 			sourceTree = "<group>";
@@ -193,6 +196,7 @@
 				01F888F4257A6AEA00984D3C /* LazyHStack1.swift in Sources */,
 				0176A8F9257C40F000FF770C /* LazyVGrid1.swift in Sources */,
 				012498A02577BE85003DB818 /* HStack1.swift in Sources */,
+				0176A8FF257C494D00FF770C /* ScrollViewReader1.swift in Sources */,
 				0176A8FC257C450300FF770C /* LazyVGrid2.swift in Sources */,
 				0170B3AD25755EE300D1C53A /* LazyVStack1.swift in Sources */,
 				0111C3D0257BF66D00A31B92 /* GeometryReader1.swift in Sources */,
