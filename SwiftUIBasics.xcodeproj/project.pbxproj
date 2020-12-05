@@ -15,6 +15,7 @@
 		01510B1525755DA100372354 /* VStack1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01510B1425755DA100372354 /* VStack1.swift */; };
 		0170B3AD25755EE300D1C53A /* LazyVStack1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0170B3AC25755EE300D1C53A /* LazyVStack1.swift */; };
 		0170B3B2257566F500D1C53A /* VStackDemo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 0170B3B1257566F500D1C53A /* VStackDemo.gif */; };
+		01F888F4257A6AEA00984D3C /* LazyHStack1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01F888F3257A6AEA00984D3C /* LazyHStack1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		01510B1425755DA100372354 /* VStack1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VStack1.swift; sourceTree = "<group>"; };
 		0170B3AC25755EE300D1C53A /* LazyVStack1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVStack1.swift; sourceTree = "<group>"; };
 		0170B3B1257566F500D1C53A /* VStackDemo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = VStackDemo.gif; sourceTree = "<group>"; };
+		01F888F3257A6AEA00984D3C /* LazyHStack1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyHStack1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				01510B1425755DA100372354 /* VStack1.swift */,
 				0170B3AC25755EE300D1C53A /* LazyVStack1.swift */,
 				0124989F2577BE85003DB818 /* HStack1.swift */,
+				01F888F3257A6AEA00984D3C /* LazyHStack1.swift */,
 			);
 			path = "Layout Views";
 			sourceTree = "<group>";
@@ -170,6 +173,7 @@
 				01510B0625755D5700372354 /* ContentView.swift in Sources */,
 				01510B0425755D5700372354 /* SwiftUIBasicsApp.swift in Sources */,
 				01510B1525755DA100372354 /* VStack1.swift in Sources */,
+				01F888F4257A6AEA00984D3C /* LazyHStack1.swift in Sources */,
 				012498A02577BE85003DB818 /* HStack1.swift in Sources */,
 				0170B3AD25755EE300D1C53A /* LazyVStack1.swift in Sources */,
 			);
