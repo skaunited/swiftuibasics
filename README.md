@@ -31,3 +31,7 @@
 # Color Picker
 
 ![alt text](https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/colorPicker.gif)
+
+# Date Picker
+
+![alt text](https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/datePicker.gif)
