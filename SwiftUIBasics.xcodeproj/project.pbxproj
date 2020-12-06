@@ -17,6 +17,7 @@
 		01510B1525755DA100372354 /* VStack1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01510B1425755DA100372354 /* VStack1.swift */; };
 		0170B3AD25755EE300D1C53A /* LazyVStack1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0170B3AC25755EE300D1C53A /* LazyVStack1.swift */; };
 		0170B3B2257566F500D1C53A /* VStackDemo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 0170B3B1257566F500D1C53A /* VStackDemo.gif */; };
+		01736AE7257D59870040FD0F /* Button1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01736AE6257D59870040FD0F /* Button1.swift */; };
 		0176A8F5257C36D400FF770C /* LazyHGrid1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0176A8F4257C36D400FF770C /* LazyHGrid1.swift */; };
 		0176A8F9257C40F000FF770C /* LazyVGrid1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0176A8F8257C40F000FF770C /* LazyVGrid1.swift */; };
 		0176A8FC257C450300FF770C /* LazyVGrid2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0176A8FB257C450300FF770C /* LazyVGrid2.swift */; };
@@ -37,6 +38,7 @@
 		01510B1425755DA100372354 /* VStack1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VStack1.swift; sourceTree = "<group>"; };
 		0170B3AC25755EE300D1C53A /* LazyVStack1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVStack1.swift; sourceTree = "<group>"; };
 		0170B3B1257566F500D1C53A /* VStackDemo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = VStackDemo.gif; sourceTree = "<group>"; };
+		01736AE6257D59870040FD0F /* Button1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Button1.swift; sourceTree = "<group>"; };
 		0176A8F4257C36D400FF770C /* LazyHGrid1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyHGrid1.swift; sourceTree = "<group>"; };
 		0176A8F8257C40F000FF770C /* LazyVGrid1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVGrid1.swift; sourceTree = "<group>"; };
 		0176A8FB257C450300FF770C /* LazyVGrid2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVGrid2.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 		01510B0225755D5700372354 /* SwiftUIBasics */ = {
 			isa = PBXGroup;
 			children = (
+				01736AE5257D59720040FD0F /* Control Views */,
 				01510B1325755D7E00372354 /* Layout Views */,
 				01510B0325755D5700372354 /* SwiftUIBasicsApp.swift */,
 				01510B0525755D5700372354 /* ContentView.swift */,
@@ -116,6 +119,14 @@
 				0170B3B1257566F500D1C53A /* VStackDemo.gif */,
 			);
 			path = demo;
+			sourceTree = "<group>";
+		};
+		01736AE5257D59720040FD0F /* Control Views */ = {
+			isa = PBXGroup;
+			children = (
+				01736AE6257D59870040FD0F /* Button1.swift */,
+			);
+			path = "Control Views";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -197,6 +208,7 @@
 				0176A8F9257C40F000FF770C /* LazyVGrid1.swift in Sources */,
 				012498A02577BE85003DB818 /* HStack1.swift in Sources */,
 				0176A8FF257C494D00FF770C /* ScrollViewReader1.swift in Sources */,
+				01736AE7257D59870040FD0F /* Button1.swift in Sources */,
 				0176A8FC257C450300FF770C /* LazyVGrid2.swift in Sources */,
 				0170B3AD25755EE300D1C53A /* LazyVStack1.swift in Sources */,
 				0111C3D0257BF66D00A31B92 /* GeometryReader1.swift in Sources */,
