@@ -26,3 +26,8 @@
 # ScrollView Reader
 
 ![alt text](https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/scrollViewReader.gif)
+
+
+# Color Picker
+
+![alt text](https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/colorPicker.gif)
