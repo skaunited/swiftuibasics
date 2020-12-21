@@ -6,14 +6,14 @@
 
 <table id="t01">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+    <th>Title</th>
+    <th>Description</th> 
+    <th>Demo</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>VStack & LazyVStack</td>
+    <td>VStack & LazyVStack</td>
+    <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/VStackDemo.gif" width="150" /></td>
   </tr>
   <tr>
     <td>Eve</td>
