@@ -11,7 +11,7 @@
     <th>Demo</th>
   </tr>
   <tr>
-    <td><h3>VStack & LazyVStack</h3></td>
+    <td><h5>VStack & LazyVStack</h5></td>
     <td>A view that arranges its children in a line that grows vertically, creating items only as needed.</td>
     <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/VStackDemo.gif" width="150" /></td>
   </tr>
