@@ -1,14 +1,14 @@
 # VStack & LazyVStack
 
-![alt text](https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/VStackDemo.gif)
+![alt text](https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/VStackDemo.gif =150x250)
 
 # HStack
 
-![alt text](https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/hstack.png)
+![alt text](https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/hstack.png =150x250)
 
 # LazyHStack
 
-![alt text](https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/lazyHStack.gif)
+![alt text](https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/lazyHStack.gif =150x250)
 
 # ZStack
 
