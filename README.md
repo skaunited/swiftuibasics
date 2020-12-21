@@ -17,51 +17,51 @@
   </tr>
   <tr>
     <td>HStack</td>
-    <td>HStack</td>
+    <td>A view that arranges its children in a horizontal line.</td>
     <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/hstack.png" width="150" /></td>
   </tr>
   <tr>
     <td>LazyHStack</td>
-    <td>LazyHStack</td>
+    <td>A view that arranges its children in a line that grows horizontally, creating items only as needed.</td>
     <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/lazyHStack.gif" width="150" /></td>
   </tr>
   <tr>
     <td>ZStack</td>
-    <td>ZStack</td>
+    <td>A view that overlays its children, aligning them in both axes.</td>
     <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/ZStack.png" width="150" /></td>
   </tr>
   <tr>
     <td>Geometry Reader</td>
-    <td>Geometry Reader</td>
+    <td>A container view that defines its content as a function of its own size and coordinate space.</td>
     <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/geometryReader.gif" width="150" /></td>
   </tr>
   <tr>
     <td>LazyVGrid</td>
-    <td>LazyVGrid</td>
+    <td>A container view that arranges its child views in a grid that grows vertically, creating items only as needed.</td>
     <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/lazyVGrid.gif" width="150" /></td>
   </tr>
   <tr>
     <td>ScrollView Reader</td>
-    <td>ScrollView Reader</td>
+    <td>A view whose child is defined as a function of a ScrollViewProxy targeting the scrollable views within the child.</td>
     <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/scrollViewReader.gif" width="150" /></td>
     
   </tr>
   
    <tr>
     <td>Color Picker</td>
-    <td>Color Picker</td>
+    <td>A control used to select a color from the system color picker UI.</td>
     <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/colorPicker.gif" width="150" /></td>
    </tr>
    
    <tr>
     <td>Date Picker</td>
-    <td>Date Picker</td>
+    <td>Display a calendar date and provide controls for editing the date value.</td>
     <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/datePicker.gif" width="150" /></td>
    </tr>
    
    <tr>
     <td>Disclosure Group</td>
-    <td>Disclosure Group</td>
+    <td>A view that shows or hides another content view, based on the state of a disclosure control.</td>
     <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/DisclosureGroup.gif" width="150" /></td>
    </tr>
    
