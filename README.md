@@ -16,15 +16,55 @@
     <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/VStackDemo.gif" width="150" /></td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>HStack</td>
+    <td>HStack</td>
+    <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/hstack.png" width="150" /></td>
   </tr>
   <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
+    <td>LazyHStack</td>
+    <td>LazyHStack</td>
+    <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/lazyHStack.gif" width="150" /></td>
   </tr>
+  <tr>
+    <td>ZStack</td>
+    <td>ZStack</td>
+    <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/ZStack.png" width="150" /></td>
+  </tr>
+  <tr>
+    <td>Geometry Reader</td>
+    <td>Geometry Reader</td>
+    <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/geometryReader.gif" width="150" /></td>
+  </tr>
+  <tr>
+    <td>LazyVGrid</td>
+    <td>LazyVGrid</td>
+    <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/lazyVGrid.gif" width="150" /></td>
+  </tr>
+  <tr>
+    <td>ScrollView Reader</td>
+    <td>ScrollView Reader</td>
+    <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/scrollViewReader.gif" width="150" /></td>
+    
+  </tr>
+  
+   <tr>
+    <td>Color Picker</td>
+    <td>Color Picker</td>
+    <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/colorPicker.gif" width="150" /></td>
+   </tr>
+   
+   <tr>
+    <td>Date Picker</td>
+    <td>Date Picker</td>
+    <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/datePicker.gif" width="150" /></td>
+   </tr>
+   
+   <tr>
+    <td>Disclosure Group</td>
+    <td>Disclosure Group</td>
+    <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/DisclosureGroup.gif" width="150" /></td>
+   </tr>
+   
 </table>
 
 </body>
