@@ -38,6 +38,6 @@
 
 # Disclosure Group
 
-![alt text](https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/DisclosureGroup.mp4)
+![alt text](https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/DisclosureGroup.gif)
 
 
