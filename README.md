@@ -1,44 +1,54 @@
-# VStack & LazyVStack
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  width:100%;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+#t01 tr:nth-child(even) {
+  background-color: #eee;
+}
+#t01 tr:nth-child(odd) {
+ background-color: #fff;
+}
+#t01 th {
+  background-color: yellow;
+  color: black;
+}
+</style>
+</head>
+<body>
 
-![alt text](https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/VStackDemo.gif) {:height="150px" width="250px"}
-<img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/VStackDemo.gif" width="150" />
+<table id="t01">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
+</table>
 
-# HStack
-
-![alt text](https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/hstack.png ) {:height="150px" width="250px"}
-
-# LazyHStack
-
-![alt text](https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/lazyHStack.gif) {:height="150px" width="250px"}
-
-# ZStack
-
-![alt text](https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/ZStack.png)
-
-
-# Geometry Reader
-
-![alt text](https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/geometryReader.gif)
-
-# LazyVGrid
-
-![alt text](https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/lazyVGrid.gif)
-
-# ScrollView Reader
-
-![alt text](https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Layout%20Views/demo/scrollViewReader.gif)
-
-
-# Color Picker
-
-![alt text](https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/colorPicker.gif)
-
-# Date Picker
-
-![alt text](https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/datePicker.gif)
-
-# Disclosure Group
-
-![alt text](https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/DisclosureGroup.gif)
-
-
+</body>
+</html>
