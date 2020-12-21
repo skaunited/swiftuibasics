@@ -65,6 +65,11 @@
     <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/DisclosureGroup.gif" width="150" /></td>
    </tr>
    
+   <tr>
+    <td><h5>Link</h5></td>
+    <td>A control for navigating to a URL..</td>
+    <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/link.gif" width="150" /></td>
+   </tr>
 </table>
 
 </body>
