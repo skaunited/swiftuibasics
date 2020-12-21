@@ -35,3 +35,9 @@
 # Date Picker
 
 ![alt text](https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/datePicker.gif)
+
+# Disclosure Group
+
+![alt text](https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/DisclosureGroup.mp4)
+
+

@@ -15,6 +15,7 @@
 		01510B0825755D5700372354 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01510B0725755D5700372354 /* Assets.xcassets */; };
 		01510B0B25755D5700372354 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01510B0A25755D5700372354 /* Preview Assets.xcassets */; };
 		01510B1525755DA100372354 /* VStack1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01510B1425755DA100372354 /* VStack1.swift */; };
+		016464ED2590B9F400C70F1C /* DisclosureGroup1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 016464EC2590B9F400C70F1C /* DisclosureGroup1.swift */; };
 		0170B3AD25755EE300D1C53A /* LazyVStack1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0170B3AC25755EE300D1C53A /* LazyVStack1.swift */; };
 		0170B3B2257566F500D1C53A /* VStackDemo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 0170B3B1257566F500D1C53A /* VStackDemo.gif */; };
 		01736AE7257D59870040FD0F /* Button1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01736AE6257D59870040FD0F /* Button1.swift */; };
@@ -38,6 +39,7 @@
 		01510B0A25755D5700372354 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		01510B0C25755D5700372354 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		01510B1425755DA100372354 /* VStack1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VStack1.swift; sourceTree = "<group>"; };
+		016464EC2590B9F400C70F1C /* DisclosureGroup1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisclosureGroup1.swift; sourceTree = "<group>"; };
 		0170B3AC25755EE300D1C53A /* LazyVStack1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVStack1.swift; sourceTree = "<group>"; };
 		0170B3B1257566F500D1C53A /* VStackDemo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = VStackDemo.gif; sourceTree = "<group>"; };
 		01736AE6257D59870040FD0F /* Button1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Button1.swift; sourceTree = "<group>"; };
@@ -132,6 +134,7 @@
 				01736AE6257D59870040FD0F /* Button1.swift */,
 				01736AEF257D5C7D0040FD0F /* ColorPicker1.swift */,
 				01736AF4257D62EF0040FD0F /* DatePicker1.swift */,
+				016464EC2590B9F400C70F1C /* DisclosureGroup1.swift */,
 			);
 			path = "Control Views";
 			sourceTree = "<group>";
@@ -225,6 +228,7 @@
 				01736AE7257D59870040FD0F /* Button1.swift in Sources */,
 				01736AF5257D62EF0040FD0F /* DatePicker1.swift in Sources */,
 				0176A8FC257C450300FF770C /* LazyVGrid2.swift in Sources */,
+				016464ED2590B9F400C70F1C /* DisclosureGroup1.swift in Sources */,
 				0170B3AD25755EE300D1C53A /* LazyVStack1.swift in Sources */,
 				0111C3D0257BF66D00A31B92 /* GeometryReader1.swift in Sources */,
 				01736AF0257D5C7D0040FD0F /* ColorPicker1.swift in Sources */,
