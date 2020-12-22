@@ -70,6 +70,12 @@
     <td>A control for navigating to a URL..</td>
     <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/link.gif" width="150" /></td>
    </tr>
+   
+   <tr>
+    <td><h5>List View</h5></td>
+    <td>A container that presents rows of data arranged in a single column.</td>
+    <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/ListView.gif" width="150" /></td>
+   </tr>
 </table>
 
 </body>

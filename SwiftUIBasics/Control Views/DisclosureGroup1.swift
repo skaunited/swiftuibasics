@@ -43,7 +43,10 @@ struct DisclosureManager: View {
         DisclosureGroup(
             content: {
                 RoundedRectangle(cornerRadius: 25.0)
+                    .fill(Color.yellow)
+                    .shadow(color: .gray, radius: 2, x: -3, y: -3)
                     .frame(height: 200)
+                    .padding()
             },
             label: {
                 Image(systemName: "sun.min.fill")
