@@ -76,6 +76,13 @@
     <td>A container that presents rows of data arranged in a single column.</td>
     <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/ListView.gif" width="150" /></td>
    </tr>
+
+   <tr>
+    <td><h5>Menu</h5></td>
+    <td>A control for presenting a menu of actions. <br> struct Menu<Label, Content> where Label : View, Content : View</td>
+    <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/menu.gif" width="150" /></td>
+   </tr>
+   
 </table>
 
 </body>
