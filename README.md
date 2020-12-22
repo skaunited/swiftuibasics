@@ -82,7 +82,12 @@
     <td>A control for presenting a menu of actions. <br> struct Menu<Label, Content> where Label : View, Content : View</td>
     <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/menu.gif" width="150" /></td>
    </tr>
-   
+
+   <tr>
+    <td><h5>Navigation View</h5></td>
+    <td>A view for presenting a stack of views representing a visible path in a navigation hierarchy.</td>
+    <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/navigationView.gif" width="150" /></td>
+   </tr>
 </table>
 
 </body>
