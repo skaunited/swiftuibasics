@@ -91,8 +91,14 @@
    
    <tr>
     <td><h5>NavigationView With Data</h5></td>
-    <td>NavigationView is one of the most important components of a SwiftUI app, allowing us to push and pop screens with ease, presenting information in a clear, hierarchical way for users. In this article I want to demonstrate the full range of ways you can use NavigationView in your apps, including simple things like setting a title and adding buttons, but also programmatic navigation, creating split views, and even handling other Apple platforms such as macOS and watchOS.</td>
+    <td width="150" >NavigationView is one of the most important components of a SwiftUI app, allowing us to push and pop screens with ease, presenting information in a clear, hierarchical way for users. In this article I want to demonstrate the full range of ways you can use NavigationView in your apps, including simple things like setting a title and adding buttons, but also programmatic navigation, creating split views, and even handling other Apple platforms such as macOS and watchOS.</td>
     <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/navigationViewData.gif" width="150" /></td>
+   </tr>
+   
+   <tr>
+    <td><h5>Online Group</h5></td>
+    <td width="150">A structure that computes views and disclosure groups on demand from an underlying collection of tree-structured, identified data.</td>
+    <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/OnlineGroup.gif" width="150" /></td>
    </tr>
    
 </table>

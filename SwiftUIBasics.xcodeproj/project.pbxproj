@@ -30,6 +30,7 @@
 		01920C6F259280C5003F9ABB /* Menu1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01920C6E259280C5003F9ABB /* Menu1.swift */; };
 		01920C732592931D003F9ABB /* NavigationView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01920C722592931D003F9ABB /* NavigationView1.swift */; };
 		01CDCEC925948FF50022F6C8 /* NavigationViewWithData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01CDCEC825948FF50022F6C8 /* NavigationViewWithData.swift */; };
+		01CDCECC25949AB80022F6C8 /* OnlineGroup1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01CDCECB25949AB80022F6C8 /* OnlineGroup1.swift */; };
 		01F888F4257A6AEA00984D3C /* LazyHStack1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01F888F3257A6AEA00984D3C /* LazyHStack1.swift */; };
 /* End PBXBuildFile section */
 
@@ -59,6 +60,7 @@
 		01920C6E259280C5003F9ABB /* Menu1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Menu1.swift; sourceTree = "<group>"; };
 		01920C722592931D003F9ABB /* NavigationView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationView1.swift; sourceTree = "<group>"; };
 		01CDCEC825948FF50022F6C8 /* NavigationViewWithData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewWithData.swift; sourceTree = "<group>"; };
+		01CDCECB25949AB80022F6C8 /* OnlineGroup1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnlineGroup1.swift; sourceTree = "<group>"; };
 		01F888F3257A6AEA00984D3C /* LazyHStack1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyHStack1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -150,6 +152,7 @@
 				01920C6E259280C5003F9ABB /* Menu1.swift */,
 				01920C722592931D003F9ABB /* NavigationView1.swift */,
 				01CDCEC825948FF50022F6C8 /* NavigationViewWithData.swift */,
+				01CDCECB25949AB80022F6C8 /* OnlineGroup1.swift */,
 			);
 			path = "Control Views";
 			sourceTree = "<group>";
@@ -249,6 +252,7 @@
 				016464ED2590B9F400C70F1C /* DisclosureGroup1.swift in Sources */,
 				0170B3AD25755EE300D1C53A /* LazyVStack1.swift in Sources */,
 				01920C732592931D003F9ABB /* NavigationView1.swift in Sources */,
+				01CDCECC25949AB80022F6C8 /* OnlineGroup1.swift in Sources */,
 				0111C3D0257BF66D00A31B92 /* GeometryReader1.swift in Sources */,
 				01920C6F259280C5003F9ABB /* Menu1.swift in Sources */,
 				01736AF0257D5C7D0040FD0F /* ColorPicker1.swift in Sources */,
