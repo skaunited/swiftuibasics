@@ -88,6 +88,13 @@
     <td>A view for presenting a stack of views representing a visible path in a navigation hierarchy.</td>
     <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/navigationView.gif" width="150" /></td>
    </tr>
+   
+   <tr>
+    <td><h5>NavigationView With Data</h5></td>
+    <td>NavigationView is one of the most important components of a SwiftUI app, allowing us to push and pop screens with ease, presenting information in a clear, hierarchical way for users. In this article I want to demonstrate the full range of ways you can use NavigationView in your apps, including simple things like setting a title and adding buttons, but also programmatic navigation, creating split views, and even handling other Apple platforms such as macOS and watchOS.</td>
+    <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/navigationViewData.gif" width="150" /></td>
+   </tr>
+   
 </table>
 
 </body>

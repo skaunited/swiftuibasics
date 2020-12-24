@@ -29,6 +29,7 @@
 		01920C6C25927879003F9ABB /* List1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01920C6B25927879003F9ABB /* List1.swift */; };
 		01920C6F259280C5003F9ABB /* Menu1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01920C6E259280C5003F9ABB /* Menu1.swift */; };
 		01920C732592931D003F9ABB /* NavigationView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01920C722592931D003F9ABB /* NavigationView1.swift */; };
+		01CDCEC925948FF50022F6C8 /* NavigationViewWithData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01CDCEC825948FF50022F6C8 /* NavigationViewWithData.swift */; };
 		01F888F4257A6AEA00984D3C /* LazyHStack1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01F888F3257A6AEA00984D3C /* LazyHStack1.swift */; };
 /* End PBXBuildFile section */
 
@@ -57,6 +58,7 @@
 		01920C6B25927879003F9ABB /* List1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = List1.swift; sourceTree = "<group>"; };
 		01920C6E259280C5003F9ABB /* Menu1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Menu1.swift; sourceTree = "<group>"; };
 		01920C722592931D003F9ABB /* NavigationView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationView1.swift; sourceTree = "<group>"; };
+		01CDCEC825948FF50022F6C8 /* NavigationViewWithData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewWithData.swift; sourceTree = "<group>"; };
 		01F888F3257A6AEA00984D3C /* LazyHStack1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyHStack1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -147,6 +149,7 @@
 				01920C6B25927879003F9ABB /* List1.swift */,
 				01920C6E259280C5003F9ABB /* Menu1.swift */,
 				01920C722592931D003F9ABB /* NavigationView1.swift */,
+				01CDCEC825948FF50022F6C8 /* NavigationViewWithData.swift */,
 			);
 			path = "Control Views";
 			sourceTree = "<group>";
@@ -229,6 +232,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0111C3CD257BF2D800A31B92 /* ZStack1.swift in Sources */,
+				01CDCEC925948FF50022F6C8 /* NavigationViewWithData.swift in Sources */,
 				01510B0625755D5700372354 /* ContentView.swift in Sources */,
 				01510B0425755D5700372354 /* SwiftUIBasicsApp.swift in Sources */,
 				01510B1525755DA100372354 /* VStack1.swift in Sources */,
