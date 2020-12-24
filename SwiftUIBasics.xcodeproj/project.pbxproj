@@ -32,6 +32,7 @@
 		01CDCEC925948FF50022F6C8 /* NavigationViewWithData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01CDCEC825948FF50022F6C8 /* NavigationViewWithData.swift */; };
 		01CDCECC25949AB80022F6C8 /* OnlineGroup1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01CDCECB25949AB80022F6C8 /* OnlineGroup1.swift */; };
 		01CDCECF2594E7D20022F6C8 /* Picker1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01CDCECE2594E7D20022F6C8 /* Picker1.swift */; };
+		01CDCED22594F0F00022F6C8 /* ProgressView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01CDCED12594F0F00022F6C8 /* ProgressView1.swift */; };
 		01F888F4257A6AEA00984D3C /* LazyHStack1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01F888F3257A6AEA00984D3C /* LazyHStack1.swift */; };
 /* End PBXBuildFile section */
 
@@ -63,6 +64,7 @@
 		01CDCEC825948FF50022F6C8 /* NavigationViewWithData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewWithData.swift; sourceTree = "<group>"; };
 		01CDCECB25949AB80022F6C8 /* OnlineGroup1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnlineGroup1.swift; sourceTree = "<group>"; };
 		01CDCECE2594E7D20022F6C8 /* Picker1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Picker1.swift; sourceTree = "<group>"; };
+		01CDCED12594F0F00022F6C8 /* ProgressView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressView1.swift; sourceTree = "<group>"; };
 		01F888F3257A6AEA00984D3C /* LazyHStack1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyHStack1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -156,6 +158,7 @@
 				01CDCEC825948FF50022F6C8 /* NavigationViewWithData.swift */,
 				01CDCECB25949AB80022F6C8 /* OnlineGroup1.swift */,
 				01CDCECE2594E7D20022F6C8 /* Picker1.swift */,
+				01CDCED12594F0F00022F6C8 /* ProgressView1.swift */,
 			);
 			path = "Control Views";
 			sourceTree = "<group>";
@@ -242,6 +245,7 @@
 				01510B0625755D5700372354 /* ContentView.swift in Sources */,
 				01510B0425755D5700372354 /* SwiftUIBasicsApp.swift in Sources */,
 				01510B1525755DA100372354 /* VStack1.swift in Sources */,
+				01CDCED22594F0F00022F6C8 /* ProgressView1.swift in Sources */,
 				0176A8F5257C36D400FF770C /* LazyHGrid1.swift in Sources */,
 				01F888F4257A6AEA00984D3C /* LazyHStack1.swift in Sources */,
 				0176A8F9257C40F000FF770C /* LazyVGrid1.swift in Sources */,

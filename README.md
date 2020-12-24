@@ -107,6 +107,13 @@
     <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/Picker.gif" width="220" /></td>
    </tr>
    
+   <tr>
+    <td><h5>ProgressView</h5></td>
+    <td>A view that shows the progress towards completion of a task.</td>
+    <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/ProgressView.gif" width="220" /></td>
+   </tr>
+   
+   
 </table>
 
 </body>
