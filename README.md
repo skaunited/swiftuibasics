@@ -113,6 +113,13 @@
     <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/ProgressView.gif" width="220" /></td>
    </tr>
    
+   <tr>
+    <td><h5>SecureField</h5></td>
+    <td>A control into which the user securely enters private text.</td>
+    <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/password.gif" width="220" /></td>
+   </tr>
+   
+   
    
 </table>
 
