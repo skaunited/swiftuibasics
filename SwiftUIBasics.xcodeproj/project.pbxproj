@@ -12,6 +12,7 @@
 		012498A02577BE85003DB818 /* HStack1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0124989F2577BE85003DB818 /* HStack1.swift */; };
 		0140648C259CA1F400A4C2DA /* ScrollView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0140648B259CA1F400A4C2DA /* ScrollView1.swift */; };
 		0140648F259CA3EF00A4C2DA /* SecureField1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0140648E259CA3EF00A4C2DA /* SecureField1.swift */; };
+		01406493259CA90500A4C2DA /* SegmentedControl1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01406492259CA90500A4C2DA /* SegmentedControl1.swift */; };
 		01510B0425755D5700372354 /* SwiftUIBasicsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01510B0325755D5700372354 /* SwiftUIBasicsApp.swift */; };
 		01510B0625755D5700372354 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01510B0525755D5700372354 /* ContentView.swift */; };
 		01510B0825755D5700372354 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01510B0725755D5700372354 /* Assets.xcassets */; };
@@ -44,6 +45,7 @@
 		0124989F2577BE85003DB818 /* HStack1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HStack1.swift; sourceTree = "<group>"; };
 		0140648B259CA1F400A4C2DA /* ScrollView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollView1.swift; sourceTree = "<group>"; };
 		0140648E259CA3EF00A4C2DA /* SecureField1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecureField1.swift; sourceTree = "<group>"; };
+		01406492259CA90500A4C2DA /* SegmentedControl1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentedControl1.swift; sourceTree = "<group>"; };
 		01510B0025755D5700372354 /* SwiftUIBasics.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBasics.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		01510B0325755D5700372354 /* SwiftUIBasicsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBasicsApp.swift; sourceTree = "<group>"; };
 		01510B0525755D5700372354 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -165,6 +167,7 @@
 				01CDCED12594F0F00022F6C8 /* ProgressView1.swift */,
 				0140648B259CA1F400A4C2DA /* ScrollView1.swift */,
 				0140648E259CA3EF00A4C2DA /* SecureField1.swift */,
+				01406492259CA90500A4C2DA /* SegmentedControl1.swift */,
 			);
 			path = "Control Views";
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 				01736AF5257D62EF0040FD0F /* DatePicker1.swift in Sources */,
 				016464F02590D00800C70F1C /* Link1.swift in Sources */,
 				0176A8FC257C450300FF770C /* LazyVGrid2.swift in Sources */,
+				01406493259CA90500A4C2DA /* SegmentedControl1.swift in Sources */,
 				01920C6C25927879003F9ABB /* List1.swift in Sources */,
 				016464ED2590B9F400C70F1C /* DisclosureGroup1.swift in Sources */,
 				0170B3AD25755EE300D1C53A /* LazyVStack1.swift in Sources */,

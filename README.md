@@ -119,7 +119,11 @@
     <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/password.gif" width="220" /></td>
    </tr>
    
-   
+   <tr>
+    <td><h5>Segmented Control</h5></td>
+    <td>SwiftUI’s Picker can also be used to create segmented controls equivalent to UISegmentedControl from UIKit, although it needs to be bound to some state and you must ensure to give each segment a tag so it can be identified. Segments can be text or pictures; anything else will silently fail.</td>
+    <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/segmentedControl.gif" width="220" /></td>
+   </tr>
    
 </table>
 
