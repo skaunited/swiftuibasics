@@ -13,6 +13,7 @@
 		0140648C259CA1F400A4C2DA /* ScrollView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0140648B259CA1F400A4C2DA /* ScrollView1.swift */; };
 		0140648F259CA3EF00A4C2DA /* SecureField1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0140648E259CA3EF00A4C2DA /* SecureField1.swift */; };
 		01406493259CA90500A4C2DA /* SegmentedControl1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01406492259CA90500A4C2DA /* SegmentedControl1.swift */; };
+		01406496259CACD200A4C2DA /* SignInWithAppleButton1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01406495259CACD200A4C2DA /* SignInWithAppleButton1.swift */; };
 		01510B0425755D5700372354 /* SwiftUIBasicsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01510B0325755D5700372354 /* SwiftUIBasicsApp.swift */; };
 		01510B0625755D5700372354 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01510B0525755D5700372354 /* ContentView.swift */; };
 		01510B0825755D5700372354 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01510B0725755D5700372354 /* Assets.xcassets */; };
@@ -46,6 +47,7 @@
 		0140648B259CA1F400A4C2DA /* ScrollView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollView1.swift; sourceTree = "<group>"; };
 		0140648E259CA3EF00A4C2DA /* SecureField1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecureField1.swift; sourceTree = "<group>"; };
 		01406492259CA90500A4C2DA /* SegmentedControl1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentedControl1.swift; sourceTree = "<group>"; };
+		01406495259CACD200A4C2DA /* SignInWithAppleButton1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInWithAppleButton1.swift; sourceTree = "<group>"; };
 		01510B0025755D5700372354 /* SwiftUIBasics.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBasics.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		01510B0325755D5700372354 /* SwiftUIBasicsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBasicsApp.swift; sourceTree = "<group>"; };
 		01510B0525755D5700372354 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -168,6 +170,7 @@
 				0140648B259CA1F400A4C2DA /* ScrollView1.swift */,
 				0140648E259CA3EF00A4C2DA /* SecureField1.swift */,
 				01406492259CA90500A4C2DA /* SegmentedControl1.swift */,
+				01406495259CACD200A4C2DA /* SignInWithAppleButton1.swift */,
 			);
 			path = "Control Views";
 			sourceTree = "<group>";
@@ -255,6 +258,7 @@
 				01510B0625755D5700372354 /* ContentView.swift in Sources */,
 				01510B0425755D5700372354 /* SwiftUIBasicsApp.swift in Sources */,
 				01510B1525755DA100372354 /* VStack1.swift in Sources */,
+				01406496259CACD200A4C2DA /* SignInWithAppleButton1.swift in Sources */,
 				01CDCED22594F0F00022F6C8 /* ProgressView1.swift in Sources */,
 				0176A8F5257C36D400FF770C /* LazyHGrid1.swift in Sources */,
 				01F888F4257A6AEA00984D3C /* LazyHStack1.swift in Sources */,
