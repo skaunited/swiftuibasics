@@ -125,6 +125,12 @@
     <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/segmentedControl.gif" width="220" /></td>
    </tr>
    
+   <tr>
+    <td><h5>TabView</h5></td>
+    <td>A view that switches between multiple child views using interactive user interface elements.</td>
+    <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/tabView.gif" width="220" /></td>
+   </tr>
+
 </table>
 
 </body>

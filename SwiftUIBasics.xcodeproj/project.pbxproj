@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0108713625A32FF000D7119C /* Stepper1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0108713525A32FF000D7119C /* Stepper1.swift */; };
+		0108713925A333A400D7119C /* TabView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0108713825A333A400D7119C /* TabView1.swift */; };
 		0111C3CD257BF2D800A31B92 /* ZStack1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0111C3CC257BF2D800A31B92 /* ZStack1.swift */; };
 		0111C3D0257BF66D00A31B92 /* GeometryReader1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0111C3CF257BF66D00A31B92 /* GeometryReader1.swift */; };
 		012498A02577BE85003DB818 /* HStack1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0124989F2577BE85003DB818 /* HStack1.swift */; };
@@ -44,6 +45,7 @@
 
 /* Begin PBXFileReference section */
 		0108713525A32FF000D7119C /* Stepper1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stepper1.swift; sourceTree = "<group>"; };
+		0108713825A333A400D7119C /* TabView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabView1.swift; sourceTree = "<group>"; };
 		0111C3CC257BF2D800A31B92 /* ZStack1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZStack1.swift; sourceTree = "<group>"; };
 		0111C3CF257BF66D00A31B92 /* GeometryReader1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReader1.swift; sourceTree = "<group>"; };
 		0124989F2577BE85003DB818 /* HStack1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HStack1.swift; sourceTree = "<group>"; };
@@ -177,6 +179,7 @@
 				01406495259CACD200A4C2DA /* SignInWithAppleButton1.swift */,
 				01BA691B259F7F560021C87A /* Slider1.swift */,
 				0108713525A32FF000D7119C /* Stepper1.swift */,
+				0108713825A333A400D7119C /* TabView1.swift */,
 			);
 			path = "Control Views";
 			sourceTree = "<group>";
@@ -288,6 +291,7 @@
 				01920C6F259280C5003F9ABB /* Menu1.swift in Sources */,
 				01CDCECF2594E7D20022F6C8 /* Picker1.swift in Sources */,
 				01736AF0257D5C7D0040FD0F /* ColorPicker1.swift in Sources */,
+				0108713925A333A400D7119C /* TabView1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
