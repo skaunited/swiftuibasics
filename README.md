@@ -130,6 +130,13 @@
     <td>A view that switches between multiple child views using interactive user interface elements.</td>
     <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/tabView.gif" width="220" /></td>
    </tr>
+   
+   
+   <tr>
+    <td><h5>PageTabViewStyle</h5></td>
+    <td>SwiftUI’s TabView doubles up as the equivalent to a UIPageViewController, letting us swipe through multiple screens of content, with paging dots at the bottom to show users where they are.</td>
+    <td><img src="https://github.com/skaunited/swiftuibasics/blob/main/SwiftUIBasics/Control%20Views/demo/pageView.gif" width="220" /></td>
+   </tr>
 
 </table>
 

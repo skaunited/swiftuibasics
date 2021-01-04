@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		0108713625A32FF000D7119C /* Stepper1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0108713525A32FF000D7119C /* Stepper1.swift */; };
 		0108713925A333A400D7119C /* TabView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0108713825A333A400D7119C /* TabView1.swift */; };
+		0108713C25A3403400D7119C /* TabViewPaging1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0108713B25A3403400D7119C /* TabViewPaging1.swift */; };
 		0111C3CD257BF2D800A31B92 /* ZStack1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0111C3CC257BF2D800A31B92 /* ZStack1.swift */; };
 		0111C3D0257BF66D00A31B92 /* GeometryReader1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0111C3CF257BF66D00A31B92 /* GeometryReader1.swift */; };
 		012498A02577BE85003DB818 /* HStack1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0124989F2577BE85003DB818 /* HStack1.swift */; };
@@ -46,6 +47,7 @@
 /* Begin PBXFileReference section */
 		0108713525A32FF000D7119C /* Stepper1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stepper1.swift; sourceTree = "<group>"; };
 		0108713825A333A400D7119C /* TabView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabView1.swift; sourceTree = "<group>"; };
+		0108713B25A3403400D7119C /* TabViewPaging1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewPaging1.swift; sourceTree = "<group>"; };
 		0111C3CC257BF2D800A31B92 /* ZStack1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZStack1.swift; sourceTree = "<group>"; };
 		0111C3CF257BF66D00A31B92 /* GeometryReader1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReader1.swift; sourceTree = "<group>"; };
 		0124989F2577BE85003DB818 /* HStack1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HStack1.swift; sourceTree = "<group>"; };
@@ -180,6 +182,7 @@
 				01BA691B259F7F560021C87A /* Slider1.swift */,
 				0108713525A32FF000D7119C /* Stepper1.swift */,
 				0108713825A333A400D7119C /* TabView1.swift */,
+				0108713B25A3403400D7119C /* TabViewPaging1.swift */,
 			);
 			path = "Control Views";
 			sourceTree = "<group>";
@@ -269,6 +272,7 @@
 				01510B0425755D5700372354 /* SwiftUIBasicsApp.swift in Sources */,
 				01510B1525755DA100372354 /* VStack1.swift in Sources */,
 				01406496259CACD200A4C2DA /* SignInWithAppleButton1.swift in Sources */,
+				0108713C25A3403400D7119C /* TabViewPaging1.swift in Sources */,
 				01CDCED22594F0F00022F6C8 /* ProgressView1.swift in Sources */,
 				0176A8F5257C36D400FF770C /* LazyHGrid1.swift in Sources */,
 				01F888F4257A6AEA00984D3C /* LazyHStack1.swift in Sources */,
