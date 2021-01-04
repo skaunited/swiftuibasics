@@ -11,7 +11,8 @@ import SwiftUI
 struct SwiftUIBasicsApp: App {
     var body: some Scene {
         WindowGroup {
-            Menu1(userString: "Hello !")
+            Text1()
+            //Menu1(userString: "Hello !")
             //Link1(myUrl: "https://github.com/skaunited")
         }
     }
