@@ -39,6 +39,8 @@
 		01920C6F259280C5003F9ABB /* Menu1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01920C6E259280C5003F9ABB /* Menu1.swift */; };
 		01920C732592931D003F9ABB /* NavigationView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01920C722592931D003F9ABB /* NavigationView1.swift */; };
 		01A9476325A3BA1C00F888CA /* Redressed.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 01A9476225A3BA1C00F888CA /* Redressed.ttf */; };
+		01A9476625A3BB4500F888CA /* TextEditor1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01A9476525A3BB4500F888CA /* TextEditor1.swift */; };
+		01A9476C25A3BD9A00F888CA /* ViewExtention.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01A9476B25A3BD9A00F888CA /* ViewExtention.swift */; };
 		01BA691C259F7F560021C87A /* Slider1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01BA691B259F7F560021C87A /* Slider1.swift */; };
 		01CDCEC925948FF50022F6C8 /* NavigationViewWithData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01CDCEC825948FF50022F6C8 /* NavigationViewWithData.swift */; };
 		01CDCECC25949AB80022F6C8 /* OnlineGroup1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01CDCECB25949AB80022F6C8 /* OnlineGroup1.swift */; };
@@ -82,6 +84,8 @@
 		01920C6E259280C5003F9ABB /* Menu1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Menu1.swift; sourceTree = "<group>"; };
 		01920C722592931D003F9ABB /* NavigationView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationView1.swift; sourceTree = "<group>"; };
 		01A9476225A3BA1C00F888CA /* Redressed.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Redressed.ttf; sourceTree = "<group>"; };
+		01A9476525A3BB4500F888CA /* TextEditor1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditor1.swift; sourceTree = "<group>"; };
+		01A9476B25A3BD9A00F888CA /* ViewExtention.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewExtention.swift; sourceTree = "<group>"; };
 		01BA691B259F7F560021C87A /* Slider1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Slider1.swift; sourceTree = "<group>"; };
 		01CDCEC825948FF50022F6C8 /* NavigationViewWithData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewWithData.swift; sourceTree = "<group>"; };
 		01CDCECB25949AB80022F6C8 /* OnlineGroup1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnlineGroup1.swift; sourceTree = "<group>"; };
@@ -104,7 +108,8 @@
 		0108714125A391D000D7119C /* Ressources */ = {
 			isa = PBXGroup;
 			children = (
-				01A9476225A3BA1C00F888CA /* Redressed.ttf */,
+				01A9476A25A3BD8100F888CA /* Tools */,
+				01A9476925A3BD7800F888CA /* Fonts */,
 			);
 			path = Ressources;
 			sourceTree = "<group>";
@@ -200,6 +205,7 @@
 				0108713B25A3403400D7119C /* TabViewPaging1.swift */,
 				0108713E25A35E9E00D7119C /* Text1.swift */,
 				0108714425A3B6F400D7119C /* Text2_CustomFont.swift */,
+				01A9476525A3BB4500F888CA /* TextEditor1.swift */,
 			);
 			path = "Control Views";
 			sourceTree = "<group>";
@@ -209,6 +215,22 @@
 			children = (
 			);
 			path = demo;
+			sourceTree = "<group>";
+		};
+		01A9476925A3BD7800F888CA /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				01A9476225A3BA1C00F888CA /* Redressed.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		01A9476A25A3BD8100F888CA /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+				01A9476B25A3BD9A00F888CA /* ViewExtention.swift */,
+			);
+			path = Tools;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -304,10 +326,12 @@
 				0176A8FC257C450300FF770C /* LazyVGrid2.swift in Sources */,
 				01BA691C259F7F560021C87A /* Slider1.swift in Sources */,
 				01406493259CA90500A4C2DA /* SegmentedControl1.swift in Sources */,
+				01A9476625A3BB4500F888CA /* TextEditor1.swift in Sources */,
 				01920C6C25927879003F9ABB /* List1.swift in Sources */,
 				0108713F25A35E9E00D7119C /* Text1.swift in Sources */,
 				016464ED2590B9F400C70F1C /* DisclosureGroup1.swift in Sources */,
 				0170B3AD25755EE300D1C53A /* LazyVStack1.swift in Sources */,
+				01A9476C25A3BD9A00F888CA /* ViewExtention.swift in Sources */,
 				01920C732592931D003F9ABB /* NavigationView1.swift in Sources */,
 				01CDCECC25949AB80022F6C8 /* OnlineGroup1.swift in Sources */,
 				0111C3D0257BF66D00A31B92 /* GeometryReader1.swift in Sources */,
