@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0108713625A32FF000D7119C /* Stepper1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0108713525A32FF000D7119C /* Stepper1.swift */; };
 		0111C3CD257BF2D800A31B92 /* ZStack1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0111C3CC257BF2D800A31B92 /* ZStack1.swift */; };
 		0111C3D0257BF66D00A31B92 /* GeometryReader1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0111C3CF257BF66D00A31B92 /* GeometryReader1.swift */; };
 		012498A02577BE85003DB818 /* HStack1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0124989F2577BE85003DB818 /* HStack1.swift */; };
@@ -33,6 +34,7 @@
 		01920C6C25927879003F9ABB /* List1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01920C6B25927879003F9ABB /* List1.swift */; };
 		01920C6F259280C5003F9ABB /* Menu1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01920C6E259280C5003F9ABB /* Menu1.swift */; };
 		01920C732592931D003F9ABB /* NavigationView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01920C722592931D003F9ABB /* NavigationView1.swift */; };
+		01BA691C259F7F560021C87A /* Slider1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01BA691B259F7F560021C87A /* Slider1.swift */; };
 		01CDCEC925948FF50022F6C8 /* NavigationViewWithData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01CDCEC825948FF50022F6C8 /* NavigationViewWithData.swift */; };
 		01CDCECC25949AB80022F6C8 /* OnlineGroup1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01CDCECB25949AB80022F6C8 /* OnlineGroup1.swift */; };
 		01CDCECF2594E7D20022F6C8 /* Picker1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01CDCECE2594E7D20022F6C8 /* Picker1.swift */; };
@@ -41,6 +43,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0108713525A32FF000D7119C /* Stepper1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stepper1.swift; sourceTree = "<group>"; };
 		0111C3CC257BF2D800A31B92 /* ZStack1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZStack1.swift; sourceTree = "<group>"; };
 		0111C3CF257BF66D00A31B92 /* GeometryReader1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReader1.swift; sourceTree = "<group>"; };
 		0124989F2577BE85003DB818 /* HStack1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HStack1.swift; sourceTree = "<group>"; };
@@ -69,6 +72,7 @@
 		01920C6B25927879003F9ABB /* List1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = List1.swift; sourceTree = "<group>"; };
 		01920C6E259280C5003F9ABB /* Menu1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Menu1.swift; sourceTree = "<group>"; };
 		01920C722592931D003F9ABB /* NavigationView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationView1.swift; sourceTree = "<group>"; };
+		01BA691B259F7F560021C87A /* Slider1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Slider1.swift; sourceTree = "<group>"; };
 		01CDCEC825948FF50022F6C8 /* NavigationViewWithData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewWithData.swift; sourceTree = "<group>"; };
 		01CDCECB25949AB80022F6C8 /* OnlineGroup1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnlineGroup1.swift; sourceTree = "<group>"; };
 		01CDCECE2594E7D20022F6C8 /* Picker1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Picker1.swift; sourceTree = "<group>"; };
@@ -171,6 +175,8 @@
 				0140648E259CA3EF00A4C2DA /* SecureField1.swift */,
 				01406492259CA90500A4C2DA /* SegmentedControl1.swift */,
 				01406495259CACD200A4C2DA /* SignInWithAppleButton1.swift */,
+				01BA691B259F7F560021C87A /* Slider1.swift */,
+				0108713525A32FF000D7119C /* Stepper1.swift */,
 			);
 			path = "Control Views";
 			sourceTree = "<group>";
@@ -253,6 +259,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0140648C259CA1F400A4C2DA /* ScrollView1.swift in Sources */,
+				0108713625A32FF000D7119C /* Stepper1.swift in Sources */,
 				0111C3CD257BF2D800A31B92 /* ZStack1.swift in Sources */,
 				01CDCEC925948FF50022F6C8 /* NavigationViewWithData.swift in Sources */,
 				01510B0625755D5700372354 /* ContentView.swift in Sources */,
@@ -270,6 +277,7 @@
 				01736AF5257D62EF0040FD0F /* DatePicker1.swift in Sources */,
 				016464F02590D00800C70F1C /* Link1.swift in Sources */,
 				0176A8FC257C450300FF770C /* LazyVGrid2.swift in Sources */,
+				01BA691C259F7F560021C87A /* Slider1.swift in Sources */,
 				01406493259CA90500A4C2DA /* SegmentedControl1.swift in Sources */,
 				01920C6C25927879003F9ABB /* List1.swift in Sources */,
 				016464ED2590B9F400C70F1C /* DisclosureGroup1.swift in Sources */,
