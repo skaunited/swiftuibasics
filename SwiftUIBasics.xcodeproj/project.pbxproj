@@ -11,6 +11,7 @@
 		0108713925A333A400D7119C /* TabView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0108713825A333A400D7119C /* TabView1.swift */; };
 		0108713C25A3403400D7119C /* TabViewPaging1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0108713B25A3403400D7119C /* TabViewPaging1.swift */; };
 		0108713F25A35E9E00D7119C /* Text1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0108713E25A35E9E00D7119C /* Text1.swift */; };
+		0108714525A3B6F400D7119C /* Text2_CustomFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0108714425A3B6F400D7119C /* Text2_CustomFont.swift */; };
 		0111C3CD257BF2D800A31B92 /* ZStack1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0111C3CC257BF2D800A31B92 /* ZStack1.swift */; };
 		0111C3D0257BF66D00A31B92 /* GeometryReader1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0111C3CF257BF66D00A31B92 /* GeometryReader1.swift */; };
 		012498A02577BE85003DB818 /* HStack1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0124989F2577BE85003DB818 /* HStack1.swift */; };
@@ -37,6 +38,7 @@
 		01920C6C25927879003F9ABB /* List1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01920C6B25927879003F9ABB /* List1.swift */; };
 		01920C6F259280C5003F9ABB /* Menu1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01920C6E259280C5003F9ABB /* Menu1.swift */; };
 		01920C732592931D003F9ABB /* NavigationView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01920C722592931D003F9ABB /* NavigationView1.swift */; };
+		01A9476325A3BA1C00F888CA /* Redressed.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 01A9476225A3BA1C00F888CA /* Redressed.ttf */; };
 		01BA691C259F7F560021C87A /* Slider1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01BA691B259F7F560021C87A /* Slider1.swift */; };
 		01CDCEC925948FF50022F6C8 /* NavigationViewWithData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01CDCEC825948FF50022F6C8 /* NavigationViewWithData.swift */; };
 		01CDCECC25949AB80022F6C8 /* OnlineGroup1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01CDCECB25949AB80022F6C8 /* OnlineGroup1.swift */; };
@@ -50,6 +52,7 @@
 		0108713825A333A400D7119C /* TabView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabView1.swift; sourceTree = "<group>"; };
 		0108713B25A3403400D7119C /* TabViewPaging1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewPaging1.swift; sourceTree = "<group>"; };
 		0108713E25A35E9E00D7119C /* Text1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Text1.swift; sourceTree = "<group>"; };
+		0108714425A3B6F400D7119C /* Text2_CustomFont.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Text2_CustomFont.swift; sourceTree = "<group>"; };
 		0111C3CC257BF2D800A31B92 /* ZStack1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZStack1.swift; sourceTree = "<group>"; };
 		0111C3CF257BF66D00A31B92 /* GeometryReader1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReader1.swift; sourceTree = "<group>"; };
 		0124989F2577BE85003DB818 /* HStack1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HStack1.swift; sourceTree = "<group>"; };
@@ -78,6 +81,7 @@
 		01920C6B25927879003F9ABB /* List1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = List1.swift; sourceTree = "<group>"; };
 		01920C6E259280C5003F9ABB /* Menu1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Menu1.swift; sourceTree = "<group>"; };
 		01920C722592931D003F9ABB /* NavigationView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationView1.swift; sourceTree = "<group>"; };
+		01A9476225A3BA1C00F888CA /* Redressed.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Redressed.ttf; sourceTree = "<group>"; };
 		01BA691B259F7F560021C87A /* Slider1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Slider1.swift; sourceTree = "<group>"; };
 		01CDCEC825948FF50022F6C8 /* NavigationViewWithData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewWithData.swift; sourceTree = "<group>"; };
 		01CDCECB25949AB80022F6C8 /* OnlineGroup1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnlineGroup1.swift; sourceTree = "<group>"; };
@@ -97,6 +101,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0108714125A391D000D7119C /* Ressources */ = {
+			isa = PBXGroup;
+			children = (
+				01A9476225A3BA1C00F888CA /* Redressed.ttf */,
+			);
+			path = Ressources;
+			sourceTree = "<group>";
+		};
 		01510AF725755D5600372354 = {
 			isa = PBXGroup;
 			children = (
@@ -116,6 +128,7 @@
 		01510B0225755D5700372354 /* SwiftUIBasics */ = {
 			isa = PBXGroup;
 			children = (
+				0108714125A391D000D7119C /* Ressources */,
 				01736AE5257D59720040FD0F /* Control Views */,
 				01510B1325755D7E00372354 /* Layout Views */,
 				01510B0325755D5700372354 /* SwiftUIBasicsApp.swift */,
@@ -186,6 +199,7 @@
 				0108713825A333A400D7119C /* TabView1.swift */,
 				0108713B25A3403400D7119C /* TabViewPaging1.swift */,
 				0108713E25A35E9E00D7119C /* Text1.swift */,
+				0108714425A3B6F400D7119C /* Text2_CustomFont.swift */,
 			);
 			path = "Control Views";
 			sourceTree = "<group>";
@@ -256,6 +270,7 @@
 			files = (
 				01510B0B25755D5700372354 /* Preview Assets.xcassets in Resources */,
 				0170B3B2257566F500D1C53A /* VStackDemo.gif in Resources */,
+				01A9476325A3BA1C00F888CA /* Redressed.ttf in Resources */,
 				01510B0825755D5700372354 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -300,6 +315,7 @@
 				01CDCECF2594E7D20022F6C8 /* Picker1.swift in Sources */,
 				01736AF0257D5C7D0040FD0F /* ColorPicker1.swift in Sources */,
 				0108713925A333A400D7119C /* TabView1.swift in Sources */,
+				0108714525A3B6F400D7119C /* Text2_CustomFont.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
